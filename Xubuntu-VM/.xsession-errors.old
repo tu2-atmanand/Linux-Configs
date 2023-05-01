@@ -1,0 +1,855 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/hacker/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/usr/bin/fish
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting CLUTTER_BACKEND=x11
+dbus-update-activation-environment: setting LANGUAGE=en_IN:en
+dbus-update-activation-environment: setting DESKTOP_SESSION=xubuntu
+dbus-update-activation-environment: setting PWD=/home/hacker
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xubuntu
+dbus-update-activation-environment: setting LOGNAME=hacker
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/hacker/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/hacker
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/hacker
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_IN
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=hacker
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=xubuntu
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+
+(xfwm4:1904): xfwm4-WARNING **: 17:40:41.172: Unsupported GL renderer (SVGA3D; build: RELEASE;  LLVM;).
+conky: no process found
+vmware-user: could not open /proc/fs/vmblock/dev
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+
+** (xfce4-clipman:1942): WARNING **: 17:40:42.456: Unable to register GApplication: An object is already exported for the interface org.gtk.Application at /org/xfce/clipman
+
+(xfce4-clipman:1942): GLib-GIO-CRITICAL **: 17:40:42.456: g_application_get_is_remote: assertion 'application->priv->is_registered' failed
+
+(xfce4-clipman:1942): GLib-WARNING **: 17:40:42.456: g_set_application_name() called multiple times
+
+(polkit-gnome-authentication-agent-1:1990): GLib-CRITICAL **: 17:40:42.578: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1990): polkit-gnome-1-WARNING **: 17:40:42.580: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (xfce4-power-manager:2010): WARNING **: 17:40:42.738: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:2010): WARNING **: 17:40:42.742: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(xfce4-power-manager:2010): GLib-GObject-WARNING **: 17:40:42.910: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x559748e1e920' of type 'GDBusProxy'
+
+** (xiccd:2039): WARNING **: 17:40:42.957: EDID is empty
+
+** (xfce4-screensaver:1967): WARNING **: 17:40:44.917: screensaver already running in this session
+
+(xfce4-power-manager:2010): xfce4-power-manager-WARNING **: 17:40:45.037: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:2010): WARNING **: 17:40:45.096: No outputs have backlight property
+
+(xfce4-power-manager:2010): xfce4-power-manager-WARNING **: 17:40:45.132: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+(wrapper-2.0:1936): Gtk-WARNING **: 17:40:45.500: Theme parsing error: <data>:1:46: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(wrapper-2.0:1936): Gtk-WARNING **: 17:40:45.500: Theme parsing error: <data>:1:78: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(wrapper-2.0:1936): Gtk-WARNING **: 17:40:45.500: Theme parsing error: <data>:1:108: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(wrapper-2.0:1936): Gtk-WARNING **: 17:40:45.500: Theme parsing error: <data>:1:136: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(wrapper-2.0:2023): Gtk-WARNING **: 17:40:45.618: Negative content height -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkButton)
+
+(wrapper-2.0:1932): Gtk-WARNING **: 17:40:45.618: Negative content height -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+blueman-applet 17.40.45 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 17.40.46 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+conky: desktop window (1800040) is subwindow of root window (259)
+conky: window type - panel
+conky: drawing to created window (0x4000002)
+conky: drawing to double buffer
+conky: Unknown setting 'maximum_height'
+blueman-applet 17.40.53 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Refusing to render service to dead parents.
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(xfce4-clipman:1942): Gtk-CRITICAL **: 17:46:57.255: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(xfce4-clipman:1942): Gtk-CRITICAL **: 17:46:57.256: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+WARNING:root:can not import unity GI Namespace Dbusmenu not available
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(wrapper-2.0:1936): Gtk-WARNING **: 18:07:44.857: Theme parsing error: <data>:1:46: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(wrapper-2.0:1936): Gtk-WARNING **: 18:07:44.857: Theme parsing error: <data>:1:78: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(wrapper-2.0:1936): Gtk-WARNING **: 18:07:44.857: Theme parsing error: <data>:1:108: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(wrapper-2.0:1936): Gtk-WARNING **: 18:07:44.857: Theme parsing error: <data>:1:136: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(Thunar:1924): thunar-WARNING **: 18:18:36.952: Content type loading failed for .goutputstream-SY1X31: Error when getting information for file “/home/hacker/.conky/.goutputstream-SY1X31”: No such file or directory
+conky: '/home/hacker/.conky/conky.conf' modified, reloading...
+conky: desktop window (1800040) is subwindow of root window (259)
+conky: window type - panel
+conky: drawing to created window (0x4000002)
+conky: drawing to double buffer
+conky: Unknown setting 'maximum_height'
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+conky: '/home/hacker/.conky/conky.conf' modified, reloading...
+conky: desktop window (1800040) is subwindow of root window (259)
+conky: window type - panel
+conky: drawing to created window (0x4000002)
+conky: drawing to double buffer
+conky: Unknown setting 'maximum_height'
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$1"."\$2"."\$3}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+conky: '/home/hacker/.conky/conky.conf' modified, reloading...
+conky: desktop window (1800040) is subwindow of root window (259)
+conky: window type - panel
+conky: drawing to created window (0x4000002)
+conky: drawing to double buffer
+conky: Unknown setting 'maximum_height'
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+conky: '/home/hacker/.conky/conky.conf' modified, reloading...
+conky: desktop window (1800040) is subwindow of root window (259)
+conky: window type - panel
+conky: drawing to created window (0x4000002)
+conky: drawing to double buffer
+conky: Unknown setting 'maximum_height'
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+conky: '/home/hacker/.conky/conky.conf' modified, reloading...
+conky: desktop window (1800040) is subwindow of root window (259)
+conky: window type - panel
+conky: drawing to created window (0x4000002)
+conky: drawing to double buffer
+conky: Unknown setting 'maximum_height'
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line1: 
+{print \$2}awk: 
+cmd. line:awk: 1: cmd. line:{print \$2}1: 
+       ^ backslash not last character on lineawk: 
+cmd. line:awk: 1: cmd. line:       ^ syntax error1: 
+{print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+conky: '/home/hacker/.conky/conky.conf' modified, reloading...
+conky: desktop window (1800040) is subwindow of root window (259)
+conky: window type - panel
+conky: drawing to created window (0x4000002)
+conky: drawing to double buffer
+conky: Unknown setting 'maximum_height'
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ backslash not last character on line
+awk: cmd. line:1: {print \$2}
+awk: cmd. line:1:        ^ syntax error
+
+(gedit:16154): Gtk-WARNING **: 18:24:44.740: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such method “Inhibit”
+
+(xfwm4-tweaks-settings:16903): Gtk-WARNING **: 18:27:10.876: Content added to the action area of a dialog using header bars
+
+(xfwm4-tweaks-settings:16903): Gtk-WARNING **: 18:27:10.876: Content added to the action area of a dialog using header bars
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(xfce4-power-manager:2010): Gtk-WARNING **: 18:43:21.638: A floating object was finalized. This means that someone
+called g_object_unref() on an object that had only a floating
+reference; the initial floating reference is not owned by anyone
+and must be removed with g_object_ref_sink().
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+conky: X Error: Display 55cf1f67c6c0
+
